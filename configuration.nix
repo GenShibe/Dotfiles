@@ -117,6 +117,7 @@
       superTuxKart
       prismlauncher
       #  thunderbird
+      wireplumber
       nodejs_22
     spotify
     spicetify-cli
