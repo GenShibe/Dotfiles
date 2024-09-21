@@ -122,6 +122,7 @@
     spotify
     spicetify-cli
     youtube-music
+    lspci
     ];
   };
 
