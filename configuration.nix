@@ -123,6 +123,7 @@
     spicetify-cli
     youtube-music
     pciutils
+    fastfetch
     ];
   };
 
